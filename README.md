@@ -8,6 +8,6 @@
 4. Display the results: the optimal solution found and, for each iteration, the solution found.
 
 ## Benchmark links (input files):
-http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
-http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/STSP.html
-http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/
+1. http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
+2. http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/STSP.html
+3. http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/
